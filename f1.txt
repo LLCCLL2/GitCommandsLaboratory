@@ -1,1 +1,1 @@
-clone to local repo
+pull sita folder kara kondowa push.
