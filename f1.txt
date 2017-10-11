@@ -1,1 +1,1 @@
-Experimenting GitIgnore
+clone to local repo
